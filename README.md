@@ -190,7 +190,7 @@ Open to collaborating on **AI, automation, and full-stack** projects — let's b
 <div align="center">
 
 <!-- LinkedIn -->
-<a href="[https://www.linkedin.com/in/rushi-javiya-9a1388265/">
+<a href="https://www.linkedin.com/in/rushi-javiya-9a1388265/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <!-- Instagram -->
@@ -206,11 +206,11 @@ Open to collaborating on **AI, automation, and full-stack** projects — let's b
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <!-- Portfolio -->
-<a href="[https://rushi-javiya.github.io/">
+<a href="https://rushi-javiya.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
 </a>
 <!-- Optional: Resume -->
-<a href="[https://drive.google.com/file/d/1llzy6aClYAGLEuh42omPaCkEDOnlfFk0/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1llzy6aClYAGLEuh42omPaCkEDOnlfFk0/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
 </a>
 
