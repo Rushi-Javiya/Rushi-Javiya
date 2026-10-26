@@ -142,31 +142,26 @@ Open to collaborating on **AI, automation, and full-stack** projects — let's b
 
 <br/>
 
-<!-- ========== GITHUB STATS ========== -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rushi-Javiya&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rushi-Javiya&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi-Javiya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushi-Javiya&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi-Javiya&bg_color=0d1117&color=00e5ff&line=2c5364&point=ffffff&area=true&area_color=2c5364&hide_border=true" alt="Activity graph" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rushi-Javiya&theme=radical&utcOffset=5.5" height="160" alt="Productive time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rushi-Javiya&theme=radical" height="160" alt="Repos per language"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://ghchart.rshah.org/8b5cf6/Rushi-Javiya" alt="Contribution graph" width="90%"/>
 
-<!-- ========== TROPHIES ========== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rushi-Javiya&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
 </div>
 
 <br/>
