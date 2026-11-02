@@ -160,8 +160,6 @@ Open to collaborating on **AI, automation, and full-stack** projects — let's b
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/8b5cf6/Rushi-Javiya" alt="Contribution graph" width="90%"/>
-
 </div>
 
 <br/>
