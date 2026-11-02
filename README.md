@@ -220,9 +220,5 @@ Open to collaborating on **AI, automation, and full-stack** projects — let's b
 
 <br/>
 
-<!-- ========== FOOTER ========== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
-
   <sub>⭐ If you like what you see, drop a star on a repo — it makes my day!</sub>
 </div>
